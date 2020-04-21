@@ -1,5 +1,7 @@
 # CMPT726-CJW - Kaggle IEEE-CIS Fraud detection challenge
 
+This project is a collaborated work by Chintana Prabhu - cprabhu@sfu.ca, Jason Lee - jason_lee_19@sfu.ca and  Wesley Romey - wes_romey@sfu.ca as a part of course project towards completion of course CMPT419/726:Machine Learning under the guidance of Dr.Mo Chen in the Spring-2020 term.
+
 We used Google Colab platform to train the model and run the code. The data files train_transaction.csv and test_transaction.csv could not be uploaded in the repository because of file size limit. 
 If using Google colab to run the code, the data files could be found at https://drive.google.com/drive/folders/1y6qWfN1syKy7Q2uyQXPNnr_yHyiGLZ1Z?usp=sharing
 We need to mount the directory containing the data files prior to proceeding with data read.
