@@ -12,3 +12,19 @@ Additional instruction while running the notebook final-code:
 4. Just run the entire file from start to finish each time you want to run it. It should work perfectly and skip over all the lengthy parts after the first complete run.
 5. Save the code as a .tex along with all plots. Also, save the file as .ipynb.
 6. Copy and paste "textCNN_submission.csv" to a separate folder for storage of Kaggle test data predictions. Hand this into Kaggle to get an accuracy score.
+
+#Contents
+
+The whole notebook traverses through the process of reading the data, merging data, cleaning and preprocessing followed by feature extraction and unnecessary feature removal. Some experimental code in comments could also be seen in the notebook (which did not yeild good results). The last part of the notebook contains training and prediction of a CNN network which has been explainined in detail in the final-report.pdf file.
+
+Credits:
+
+1. https://www.kaggle.com/c/ieee-fraud-detection/discussion/100400
+2. https://www.kaggle.com/c/ieee-fraud-detection/discussion/99982
+3. https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5
+4. https://keras.io/examples/imdb_cnn/
+5. https://glassboxmedicine.com/2019/05/05/how-computers-see-intro-to-convolutional-neural-networks/
+6. https://richliao.github.io/supervised/classification/2016/11/26/textclassifier-convolutional/
+7. https://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
+8. https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets
+9. https://github.com/krishnaik06/Handle-Imbalanced-Dataset/blob/master/Handling%20Imbalanced%20Data-%20Over%20Sampling.ipynb
