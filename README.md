@@ -15,9 +15,12 @@ Additional instruction while running the notebook final-code:
 5. Save the code as a .tex along with all plots. Also, save the file as .ipynb.
 6. Copy and paste "textCNN_submission.csv" to a separate folder for storage of Kaggle test data predictions. Hand this into Kaggle to get an accuracy score.
 
-#Contents
+Contents
 
-The whole notebook traverses through the process of reading the data, merging data, cleaning and preprocessing followed by feature extraction and unnecessary feature removal. Some experimental code in comments could also be seen in the notebook (which did not yeild good results). The last part of the notebook contains training and prediction of a CNN network which has been explainined in detail in the final-report.pdf file.
+* The ieee-fraud-detection folder contains few od the data files sourced from https://www.kaggle.com/c/ieee-fraud-detection/data for the project.
+* The notebook final_code.ipynb traverses through the process of reading the data, merging data, cleaning and preprocessing followed by feature extraction and unnecessary feature removal. Some experimental code in comments could also be seen in the notebook (which did not yeild good results). The last part of the notebook contains training and prediction of a CNN network which has been explainined in detail in the final-report.pdf file.
+* final_code.py contains the modules of python code used in the notebook final_code.ipynb.
+* fianl-report.pdf is the project report submitted towards the completion of the course project. The report follows the guidelines of NIPS-2015 Style
 
 Credits:
 
